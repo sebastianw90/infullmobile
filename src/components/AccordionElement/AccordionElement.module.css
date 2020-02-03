@@ -1,0 +1,21 @@
+.headerButton {
+  width: 100%;
+  background-color: #faffc2;
+  font-size: 14px;
+  text-align: left;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.content {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background-color: white;
+  margin: 0;
+  padding: 10px 30px;
+}
+
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
